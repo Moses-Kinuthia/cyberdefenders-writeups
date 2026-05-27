@@ -3,7 +3,7 @@
 Hands-on investigation writeups from the [CyberDefenders SOC Analyst Tier 1 track](https://cyberdefenders.org/tracks/soc-analyst-tier-1/). Each writeup includes investigation reasoning, IOC extraction, MITRE ATT&CK mapping, and proposed detection rules — tested against my home SOC lab where applicable.
 
 **Author:** Moses Kinuthia — banking fraud / AML background, transitioning into security operations.
-**Home Lab:** [soc-home-lab](https://github.com/<your-username>/soc-home-lab) — pfSense, Wazuh 4.14.1, Active Directory, Kali.
+**Home Lab:** [soc-home-lab](https://github.com/Moses-Kinuthia/soc-home-lab) — pfSense, Wazuh 4.14.1, Active Directory, Kali.
 
 ---
 
@@ -55,4 +55,4 @@ cyberdefenders-writeups/
 
 ---
 
-*Part of a broader cybersecurity portfolio. See my [GitHub profile](https://github.com/<your-username>) for related projects.*
+*Part of a broader cybersecurity portfolio. See my [GitHub profile](https://github.com/Moses-Kinuthia) for related projects.*
