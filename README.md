@@ -31,22 +31,6 @@ The goal is not to solve labs. The goal is to produce investigation reports a re
 
 ---
 
-## Repository Structure
-
-```
-cyberdefenders-writeups/
-├── README.md                       ← this file
-├── templates/
-│   └── investigation-writeup.md    ← master writeup template (copy for each new lab)
-└── tier1/
-    └── level1/
-        └── webstrike/
-            ├── README.md           ← lab writeup (in progress)
-            └── screenshots/        ← evidence captured during investigation
-```
-
----
-
 ## Standing Commitments
 
 - **No fabrication.** If a finding or test isn't real, it isn't in here.
